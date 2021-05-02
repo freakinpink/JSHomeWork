@@ -1,0 +1,10 @@
+.t1{
+    width: 50%;
+    height: 400px;
+    background-color: antiquewhite;
+    cursor: url(fu.png),auto;
+}
+.t2{
+    height: 20px;
+    font-size: large;
+}
